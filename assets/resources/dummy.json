@@ -1,0 +1,2551 @@
+﻿{
+  "immovables": [
+    {
+      "discriminator": 2,
+      "position": 6422621,
+      "master_id": 1649,
+      "resource": {
+        "index": 3,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 2,
+      "position": 6422623,
+      "master_id": 1633,
+      "resource": {
+        "index": 2,
+        "value": 72000
+      }
+    },
+    {
+      "discriminator": 2,
+      "position": 5963875,
+      "master_id": 1617,
+      "resource": {
+        "index": 1,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 6488153,
+      "field_boss": {
+        "id": 8959539,
+        "master_id": 16050,
+        "type": 0,
+        "life": 1000
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 6029407,
+      "master_id": 1601,
+      "resource": {
+        "index": 0,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 6488158,
+      "field_boss": {
+        "id": 8959569,
+        "master_id": 16017,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 6488161,
+      "master_id": 1617,
+      "resource": {
+        "index": 1,
+        "value": 79212
+      }
+    },
+    {
+      "discriminator": 1,
+      "position": 6488163,
+      "image_id": 0,
+      "grade": 12,
+      "owner": {
+        "home_world_id": 1,
+        "id": 2295,
+        "image_id": 1,
+        "name": "12345",
+        "alliance_summary": {
+          "id": 263,
+          "tag": "afa",
+          "icon_image_id": 1
+        },
+        "alliance_membership": {
+          "rank": 1,
+          "loyalty": 0
+        }
+      },
+      "power": 341331,
+      "has_captured_hero": false
+    },
+    {
+      "discriminator": 2,
+      "position": 6553691,
+      "master_id": 1633,
+      "resource": {
+        "index": 2,
+        "value": 72000
+      }
+    },
+    {
+      "discriminator": 1,
+      "position": 6553700,
+      "image_id": 0,
+      "grade": 2,
+      "owner": {
+        "home_world_id": 1,
+        "id": 1887,
+        "image_id": 1,
+        "name": "城主0430202"
+      },
+      "power": 550,
+      "has_captured_hero": false
+    },
+    {
+      "discriminator": 7,
+      "position": 6619231,
+      "field_boss": {
+        "id": 8959585,
+        "master_id": 16033,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 6160483,
+      "master_id": 1601,
+      "resource": {
+        "index": 0,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 2,
+      "position": 6226009,
+      "master_id": 1633,
+      "resource": {
+        "index": 2,
+        "value": 72000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 6160485,
+      "field_boss": {
+        "id": 8959543,
+        "master_id": 16017,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 6226015,
+      "master_id": 1633,
+      "resource": {
+        "index": 2,
+        "value": 72000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 5832795,
+      "field_boss": {
+        "id": 8959547,
+        "master_id": 16050,
+        "type": 0,
+        "life": 1000
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 6226020,
+      "master_id": 1649,
+      "resource": {
+        "index": 3,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 2,
+      "position": 6684771,
+      "master_id": 32017,
+      "resource": {
+        "index": 3,
+        "value": 100000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 5832799,
+      "field_boss": {
+        "id": 8959597,
+        "master_id": 16017,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 7,
+      "position": 6291549,
+      "field_boss": {
+        "id": 8959626,
+        "master_id": 16066,
+        "type": 0,
+        "life": 1000
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 6750302,
+      "master_id": 1601,
+      "resource": {
+        "index": 0,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 2,
+      "position": 6291556,
+      "master_id": 1617,
+      "resource": {
+        "index": 1,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 6750306,
+      "field_boss": {
+        "id": 8959608,
+        "master_id": 16066,
+        "type": 0,
+        "life": 1000
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 6357089,
+      "master_id": 1601,
+      "resource": {
+        "index": 0,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 6094923,
+      "field_boss": {
+        "id": 8959526,
+        "master_id": 16017,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 7,
+      "position": 6488149,
+      "field_boss": {
+        "id": 8959465,
+        "master_id": 16033,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 6160459,
+      "master_id": 1601,
+      "resource": {
+        "index": 0,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 6619212,
+      "field_boss": {
+        "id": 8959440,
+        "master_id": 16017,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 5767240,
+      "master_id": 1601,
+      "resource": {
+        "index": 0,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 6160467,
+      "field_boss": {
+        "id": 8959507,
+        "master_id": 16033,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 6160468,
+      "master_id": 1617,
+      "resource": {
+        "index": 1,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 2,
+      "position": 6225998,
+      "master_id": 1601,
+      "resource": {
+        "index": 0,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 5832777,
+      "field_boss": {
+        "id": 8959513,
+        "master_id": 16066,
+        "type": 0,
+        "life": 1000
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 7,
+      "position": 6291530,
+      "field_boss": {
+        "id": 8959483,
+        "master_id": 16066,
+        "type": 0,
+        "life": 1000
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 5832783,
+      "master_id": 1617,
+      "resource": {
+        "index": 1,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 2,
+      "position": 6291532,
+      "master_id": 1617,
+      "resource": {
+        "index": 1,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 2,
+      "position": 6684757,
+      "master_id": 1649,
+      "resource": {
+        "index": 3,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 6750285,
+      "field_boss": {
+        "id": 8959439,
+        "master_id": 16017,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 6291538,
+      "master_id": 1633,
+      "resource": {
+        "index": 2,
+        "value": 72000
+      }
+    },
+    {
+      "discriminator": 2,
+      "position": 6357064,
+      "master_id": 1617,
+      "resource": {
+        "index": 1,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 5963852,
+      "field_boss": {
+        "id": 8959506,
+        "master_id": 16066,
+        "type": 0,
+        "life": 1000
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 7,
+      "position": 5963860,
+      "field_boss": {
+        "id": 8959487,
+        "master_id": 16066,
+        "type": 0,
+        "life": 1000
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 7,
+      "position": 6029391,
+      "field_boss": {
+        "id": 8959522,
+        "master_id": 16017,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 6488141,
+      "master_id": 1665,
+      "resource": {
+        "index": 4,
+        "value": 64000
+      }
+    },
+    {
+      "discriminator": 2,
+      "position": 7340119,
+      "master_id": 1649,
+      "resource": {
+        "index": 3,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 6946896,
+      "field_boss": {
+        "id": 8959486,
+        "master_id": 16033,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 7405648,
+      "master_id": 1601,
+      "resource": {
+        "index": 0,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 7077960,
+      "field_boss": {
+        "id": 8959485,
+        "master_id": 16017,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 7077967,
+      "master_id": 1665,
+      "resource": {
+        "index": 4,
+        "value": 64000
+      }
+    },
+    {
+      "discriminator": 2,
+      "position": 7077968,
+      "master_id": 1665,
+      "resource": {
+        "index": 4,
+        "value": 64000
+      }
+    },
+    {
+      "discriminator": 2,
+      "position": 7077969,
+      "master_id": 1665,
+      "resource": {
+        "index": 4,
+        "value": 64000
+      }
+    },
+    {
+      "discriminator": 2,
+      "position": 7143504,
+      "master_id": 1665,
+      "resource": {
+        "index": 4,
+        "value": 64000
+      }
+    },
+    {
+      "discriminator": 2,
+      "position": 7143505,
+      "master_id": 1665,
+      "resource": {
+        "index": 4,
+        "value": 64000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 7209032,
+      "field_boss": {
+        "id": 8959471,
+        "master_id": 16050,
+        "type": 0,
+        "life": 1000
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 7143508,
+      "master_id": 1649,
+      "resource": {
+        "index": 3,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 7602263,
+      "field_boss": {
+        "id": 8959635,
+        "master_id": 16017,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 7,
+      "position": 7209043,
+      "field_boss": {
+        "id": 8959524,
+        "master_id": 16033,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 7,
+      "position": 6815822,
+      "field_boss": {
+        "id": 8959438,
+        "master_id": 16050,
+        "type": 0,
+        "life": 1000
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 7,
+      "position": 7209046,
+      "field_boss": {
+        "id": 8959514,
+        "master_id": 16033,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 7,
+      "position": 7798856,
+      "field_boss": {
+        "id": 8959460,
+        "master_id": 16017,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 7733332,
+      "master_id": 1633,
+      "resource": {
+        "index": 2,
+        "value": 72000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 6946891,
+      "field_boss": {
+        "id": 8959436,
+        "master_id": 16017,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 7274598,
+      "master_id": 1601,
+      "resource": {
+        "index": 0,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 7733347,
+      "field_boss": {
+        "id": 8959548,
+        "master_id": 16017,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 7,
+      "position": 6881375,
+      "field_boss": {
+        "id": 8959592,
+        "master_id": 16066,
+        "type": 0,
+        "life": 1000
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 7,
+      "position": 7798875,
+      "field_boss": {
+        "id": 8959611,
+        "master_id": 16017,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 7,
+      "position": 6946905,
+      "field_boss": {
+        "id": 8959612,
+        "master_id": 16066,
+        "type": 0,
+        "life": 1000
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 6881380,
+      "master_id": 1649,
+      "resource": {
+        "index": 3,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 2,
+      "position": 7340132,
+      "master_id": 1649,
+      "resource": {
+        "index": 3,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 7340135,
+      "field_boss": {
+        "id": 8959574,
+        "master_id": 16066,
+        "type": 0,
+        "life": 1000
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 7405662,
+      "master_id": 1601,
+      "resource": {
+        "index": 0,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 7405663,
+      "field_boss": {
+        "id": 8959584,
+        "master_id": 16066,
+        "type": 0,
+        "life": 1000
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 7012443,
+      "master_id": 1617,
+      "resource": {
+        "index": 1,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 7471204,
+      "field_boss": {
+        "id": 8959553,
+        "master_id": 16017,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 7471205,
+      "master_id": 1649,
+      "resource": {
+        "index": 3,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 2,
+      "position": 7077984,
+      "master_id": 1601,
+      "resource": {
+        "index": 0,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 2,
+      "position": 7536739,
+      "master_id": 1649,
+      "resource": {
+        "index": 3,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 7536742,
+      "field_boss": {
+        "id": 8959604,
+        "master_id": 16066,
+        "type": 0,
+        "life": 1000
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 7602268,
+      "master_id": 1633,
+      "resource": {
+        "index": 2,
+        "value": 72000
+      }
+    },
+    {
+      "discriminator": 2,
+      "position": 7209048,
+      "master_id": 1601,
+      "resource": {
+        "index": 0,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 2,
+      "position": 6815836,
+      "master_id": 1617,
+      "resource": {
+        "index": 1,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 6815839,
+      "field_boss": {
+        "id": 8959609,
+        "master_id": 16017,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 7209063,
+      "master_id": 1649,
+      "resource": {
+        "index": 3,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 6815840,
+      "field_boss": {
+        "id": 8959616,
+        "master_id": 16017,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 7733339,
+      "master_id": 1649,
+      "resource": {
+        "index": 3,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 2,
+      "position": 7602289,
+      "master_id": 1601,
+      "resource": {
+        "index": 0,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 7602290,
+      "field_boss": {
+        "id": 8959562,
+        "master_id": 16017,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 7602293,
+      "master_id": 1633,
+      "resource": {
+        "index": 2,
+        "value": 72000
+      }
+    },
+    {
+      "discriminator": 2,
+      "position": 6815848,
+      "master_id": 1649,
+      "resource": {
+        "index": 3,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 7602294,
+      "field_boss": {
+        "id": 8959607,
+        "master_id": 16017,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 7667824,
+      "master_id": 1601,
+      "resource": {
+        "index": 0,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 2,
+      "position": 7274603,
+      "master_id": 1633,
+      "resource": {
+        "index": 2,
+        "value": 72000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 7667828,
+      "field_boss": {
+        "id": 8959542,
+        "master_id": 16017,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 7,
+      "position": 7733355,
+      "field_boss": {
+        "id": 8959617,
+        "master_id": 16050,
+        "type": 0,
+        "life": 1000
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 7733357,
+      "master_id": 1649,
+      "resource": {
+        "index": 3,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 2,
+      "position": 7274609,
+      "master_id": 1617,
+      "resource": {
+        "index": 1,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 6881386,
+      "field_boss": {
+        "id": 8959559,
+        "master_id": 16033,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 7,
+      "position": 6881392,
+      "field_boss": {
+        "id": 8959581,
+        "master_id": 16066,
+        "type": 0,
+        "life": 1000
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 6946920,
+      "master_id": 1617,
+      "resource": {
+        "index": 1,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 7798893,
+      "field_boss": {
+        "id": 8959563,
+        "master_id": 16017,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 7,
+      "position": 7798898,
+      "field_boss": {
+        "id": 8959536,
+        "master_id": 16017,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 7,
+      "position": 6946927,
+      "field_boss": {
+        "id": 8959613,
+        "master_id": 16033,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 7,
+      "position": 7405686,
+      "field_boss": {
+        "id": 8959572,
+        "master_id": 16066,
+        "type": 0,
+        "life": 1000
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 7,
+      "position": 7077993,
+      "field_boss": {
+        "id": 8959605,
+        "master_id": 16033,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 7143528,
+      "master_id": 1649,
+      "resource": {
+        "index": 3,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 7536751,
+      "field_boss": {
+        "id": 8959544,
+        "master_id": 16033,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 7143532,
+      "master_id": 1601,
+      "resource": {
+        "index": 0,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 2,
+      "position": 7536759,
+      "master_id": 1601,
+      "resource": {
+        "index": 0,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 6750322,
+      "field_boss": {
+        "id": 8959620,
+        "master_id": 16050,
+        "type": 0,
+        "life": 1000
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 5963887,
+      "master_id": 1649,
+      "resource": {
+        "index": 3,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 2,
+      "position": 6422640,
+      "master_id": 1633,
+      "resource": {
+        "index": 2,
+        "value": 72000
+      }
+    },
+    {
+      "discriminator": 2,
+      "position": 5963892,
+      "master_id": 1633,
+      "resource": {
+        "index": 2,
+        "value": 72000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 6422643,
+      "field_boss": {
+        "id": 8959602,
+        "master_id": 16017,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 5963895,
+      "master_id": 1649,
+      "resource": {
+        "index": 3,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 2,
+      "position": 6422645,
+      "master_id": 1601,
+      "resource": {
+        "index": 0,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 1,
+      "position": 6488174,
+      "image_id": 0,
+      "grade": 2,
+      "owner": {
+        "home_world_id": 1,
+        "id": 1890,
+        "image_id": 1,
+        "name": "城主1305469"
+      },
+      "power": 350,
+      "has_captured_hero": false
+    },
+    {
+      "discriminator": 1,
+      "position": 6488176,
+      "image_id": 0,
+      "grade": 6,
+      "owner": {
+        "home_world_id": 1,
+        "id": 1891,
+        "image_id": 1,
+        "name": "城主9750330"
+      },
+      "power": 22525,
+      "has_captured_hero": false
+    },
+    {
+      "discriminator": 7,
+      "position": 6553706,
+      "field_boss": {
+        "id": 8959580,
+        "master_id": 16050,
+        "type": 0,
+        "life": 1000
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 6553708,
+      "master_id": 1633,
+      "resource": {
+        "index": 2,
+        "value": 72000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 6160490,
+      "field_boss": {
+        "id": 8959628,
+        "master_id": 16017,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 7,
+      "position": 5767273,
+      "field_boss": {
+        "id": 8959564,
+        "master_id": 16050,
+        "type": 0,
+        "life": 1000
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 6226024,
+      "master_id": 1649,
+      "resource": {
+        "index": 3,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 2,
+      "position": 5767277,
+      "master_id": 1601,
+      "resource": {
+        "index": 0,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 2,
+      "position": 5832808,
+      "master_id": 1617,
+      "resource": {
+        "index": 1,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 6226034,
+      "field_boss": {
+        "id": 8959634,
+        "master_id": 16033,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 7,
+      "position": 6291560,
+      "field_boss": {
+        "id": 8959596,
+        "master_id": 16033,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 7,
+      "position": 6226035,
+      "field_boss": {
+        "id": 8959566,
+        "master_id": 16033,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 6291564,
+      "master_id": 1649,
+      "resource": {
+        "index": 3,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 5832816,
+      "field_boss": {
+        "id": 8959575,
+        "master_id": 16017,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 7,
+      "position": 5505128,
+      "field_boss": {
+        "id": 8957444,
+        "master_id": 16033,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 7,
+      "position": 5046381,
+      "field_boss": {
+        "id": 8957508,
+        "master_id": 16033,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 5505131,
+      "master_id": 1649,
+      "resource": {
+        "index": 3,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 2,
+      "position": 5439605,
+      "master_id": 1649,
+      "resource": {
+        "index": 3,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 2,
+      "position": 5111917,
+      "master_id": 1633,
+      "resource": {
+        "index": 2,
+        "value": 72000
+      }
+    },
+    {
+      "discriminator": 2,
+      "position": 5046391,
+      "master_id": 1617,
+      "resource": {
+        "index": 1,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 5570670,
+      "field_boss": {
+        "id": 8957524,
+        "master_id": 16033,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 7,
+      "position": 5111922,
+      "field_boss": {
+        "id": 8957445,
+        "master_id": 16033,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 7,
+      "position": 5570673,
+      "field_boss": {
+        "id": 8957438,
+        "master_id": 16017,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 4784232,
+      "master_id": 1633,
+      "resource": {
+        "index": 2,
+        "value": 72000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 5177457,
+      "field_boss": {
+        "id": 8957451,
+        "master_id": 16066,
+        "type": 0,
+        "life": 1000
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 4718709,
+      "master_id": 1665,
+      "resource": {
+        "index": 4,
+        "value": 64000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 4784235,
+      "field_boss": {
+        "id": 8957488,
+        "master_id": 16017,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 5177461,
+      "master_id": 1617,
+      "resource": {
+        "index": 1,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 2,
+      "position": 4784244,
+      "master_id": 1665,
+      "resource": {
+        "index": 4,
+        "value": 64000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 5701746,
+      "field_boss": {
+        "id": 8959577,
+        "master_id": 16050,
+        "type": 0,
+        "life": 1000
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 7,
+      "position": 5242998,
+      "field_boss": {
+        "id": 8957466,
+        "master_id": 16050,
+        "type": 0,
+        "life": 1000
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 4849777,
+      "master_id": 1649,
+      "resource": {
+        "index": 3,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 5374058,
+      "field_boss": {
+        "id": 8957484,
+        "master_id": 16066,
+        "type": 0,
+        "life": 1000
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 7,
+      "position": 4915309,
+      "field_boss": {
+        "id": 8957480,
+        "master_id": 16017,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 7,
+      "position": 5374064,
+      "field_boss": {
+        "id": 8957517,
+        "master_id": 16017,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 7,
+      "position": 5570648,
+      "field_boss": {
+        "id": 8957482,
+        "master_id": 16017,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 5570652,
+      "master_id": 1633,
+      "resource": {
+        "index": 2,
+        "value": 72000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 5111906,
+      "field_boss": {
+        "id": 8957437,
+        "master_id": 16017,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 7,
+      "position": 5636190,
+      "field_boss": {
+        "id": 8957518,
+        "master_id": 16050,
+        "type": 0,
+        "life": 1000
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 5177442,
+      "master_id": 1601,
+      "resource": {
+        "index": 0,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 2,
+      "position": 5242968,
+      "master_id": 1665,
+      "resource": {
+        "index": 4,
+        "value": 64000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 5177444,
+      "field_boss": {
+        "id": 8957459,
+        "master_id": 16033,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 7,
+      "position": 5701721,
+      "field_boss": {
+        "id": 8959567,
+        "master_id": 16050,
+        "type": 0,
+        "life": 1000
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 7,
+      "position": 5636198,
+      "field_boss": {
+        "id": 8957514,
+        "master_id": 16066,
+        "type": 0,
+        "life": 1000
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 5242977,
+      "master_id": 1617,
+      "resource": {
+        "index": 1,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 2,
+      "position": 4849757,
+      "master_id": 1601,
+      "resource": {
+        "index": 0,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 5701733,
+      "field_boss": {
+        "id": 8959619,
+        "master_id": 16050,
+        "type": 0,
+        "life": 1000
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 7,
+      "position": 4849761,
+      "field_boss": {
+        "id": 8957439,
+        "master_id": 16066,
+        "type": 0,
+        "life": 1000
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 5374041,
+      "master_id": 1665,
+      "resource": {
+        "index": 4,
+        "value": 64000
+      }
+    },
+    {
+      "discriminator": 2,
+      "position": 5308518,
+      "master_id": 1617,
+      "resource": {
+        "index": 1,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 4980839,
+      "field_boss": {
+        "id": 8957472,
+        "master_id": 16017,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 7,
+      "position": 4915286,
+      "field_boss": {
+        "id": 8957364,
+        "master_id": 16033,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 5111882,
+      "master_id": 1601,
+      "resource": {
+        "index": 0,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 2,
+      "position": 5308493,
+      "master_id": 1601,
+      "resource": {
+        "index": 0,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 5505097,
+      "field_boss": {
+        "id": 8957426,
+        "master_id": 16033,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 4784203,
+      "master_id": 1633,
+      "resource": {
+        "index": 2,
+        "value": 72000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 4784204,
+      "field_boss": {
+        "id": 8957422,
+        "master_id": 16017,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 4784215,
+      "master_id": 1601,
+      "resource": {
+        "index": 0,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 2,
+      "position": 5505110,
+      "master_id": 1601,
+      "resource": {
+        "index": 0,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 2,
+      "position": 4980819,
+      "master_id": 1617,
+      "resource": {
+        "index": 1,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 5701717,
+      "field_boss": {
+        "id": 8959498,
+        "master_id": 16017,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 5177419,
+      "master_id": 1617,
+      "resource": {
+        "index": 1,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 5177430,
+      "field_boss": {
+        "id": 8957363,
+        "master_id": 16017,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 5374035,
+      "master_id": 1617,
+      "resource": {
+        "index": 1,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 5374036,
+      "field_boss": {
+        "id": 8957427,
+        "master_id": 16066,
+        "type": 0,
+        "life": 1000
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 5570636,
+      "master_id": 1649,
+      "resource": {
+        "index": 3,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 5570637,
+      "field_boss": {
+        "id": 8957344,
+        "master_id": 16017,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 7,
+      "position": 4849745,
+      "field_boss": {
+        "id": 8957380,
+        "master_id": 16033,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 7,
+      "position": 5570644,
+      "field_boss": {
+        "id": 8957372,
+        "master_id": 16066,
+        "type": 0,
+        "life": 1000
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 5439570,
+      "master_id": 1617,
+      "resource": {
+        "index": 1,
+        "value": 80000
+      }
+    },
+    {
+      "discriminator": 7,
+      "position": 4718676,
+      "field_boss": {
+        "id": 8957390,
+        "master_id": 16017,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 7,
+      "position": 4915272,
+      "field_boss": {
+        "id": 8957371,
+        "master_id": 16017,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 7,
+      "position": 4915277,
+      "field_boss": {
+        "id": 8957423,
+        "master_id": 16033,
+        "type": 0,
+        "life": 500
+      },
+      "ending_date": "2015/11/25 00:00:01"
+    },
+    {
+      "discriminator": 2,
+      "position": 5111880,
+      "master_id": 1649,
+      "resource": {
+        "index": 3,
+        "value": 80000
+      }
+    }
+  ],
+  "movables": [
+    {
+      "discriminator": 1,
+      "id": 3264,
+      "start_date": "2015/11/24 16:31:01",
+      "finish_date": "2015/11/24 16:31:09",
+      "original_finish_date": "2015/11/24 16:31:09",
+      "origin": 6684771,
+      "destination": 6488163,
+      "user_outline": {
+        "home_world_id": 1,
+        "id": 2295,
+        "image_id": 1,
+        "name": "12345",
+        "alliance_summary": {
+          "id": 263,
+          "tag": "afa",
+          "icon_image_id": 1
+        },
+        "alliance_membership": {
+          "rank": 1,
+          "loyalty": 0
+        }
+      },
+      "valiants": [
+        {
+          "info": {
+            "id": 1,
+            "owner_user_id": 2295,
+            "master_id": 1,
+            "template_id": 3,
+            "exp": 230900,
+            "equipments": [
+              {
+                "part": 8,
+                "equipment_id": 2
+              },
+              {
+                "part": 2,
+                "equipment_id": 4
+              },
+              {
+                "part": 1,
+                "equipment_id": 5
+              },
+              {
+                "part": 4,
+                "equipment_id": 6
+              },
+              {
+                "part": 32,
+                "equipment_id": 7
+              },
+              {
+                "part": 32,
+                "equipment_id": 9
+              }
+            ]
+          },
+          "equipments": []
+        }
+      ],
+      "soldiers": [],
+      "animation_id": 10003,
+      "march_type": 2,
+      "arrival_result": {
+        "discriminator": 2,
+        "parent_id": 3263,
+        "effect_type": 4
+      }
+    },
+    {
+      "discriminator": 1,
+      "id": 3263,
+      "start_date": "2015/11/24 16:30:48",
+      "finish_date": "2015/11/24 16:30:56",
+      "original_finish_date": "2015/11/24 16:30:56",
+      "cancel_type": 1,
+      "origin": 6488163,
+      "destination": 6684771,
+      "user_outline": {
+        "home_world_id": 1,
+        "id": 2295,
+        "image_id": 1,
+        "name": "12345",
+        "alliance_summary": {
+          "id": 263,
+          "tag": "afa",
+          "icon_image_id": 1
+        },
+        "alliance_membership": {
+          "rank": 1,
+          "loyalty": 0
+        }
+      },
+      "valiants": [
+        {
+          "info": {
+            "id": 1,
+            "owner_user_id": 2295,
+            "master_id": 1,
+            "template_id": 3,
+            "exp": 230900,
+            "equipments": [
+              {
+                "part": 8,
+                "equipment_id": 2
+              },
+              {
+                "part": 2,
+                "equipment_id": 4
+              },
+              {
+                "part": 1,
+                "equipment_id": 5
+              },
+              {
+                "part": 4,
+                "equipment_id": 6
+              },
+              {
+                "part": 32,
+                "equipment_id": 7
+              },
+              {
+                "part": 32,
+                "equipment_id": 9
+              }
+            ]
+          },
+          "equipments": []
+        }
+      ],
+      "soldiers": [],
+      "animation_id": 10003,
+      "march_type": 1,
+      "destination_info": {
+        "discriminator": 2,
+        "name": "ゴブリン",
+        "level": 1
+      }
+    },
+    {
+      "discriminator": 1,
+      "id": 3265,
+      "start_date": "2015/11/24 16:30:58",
+      "finish_date": "2015/11/24 16:31:14",
+      "original_finish_date": "2015/11/24 16:31:14",
+      "cancel_type": 1,
+      "origin": 6488163,
+      "destination": 6488161,
+      "user_outline": {
+        "home_world_id": 1,
+        "id": 2295,
+        "image_id": 1,
+        "name": "12345",
+        "alliance_summary": {
+          "id": 263,
+          "tag": "afa",
+          "icon_image_id": 1
+        },
+        "alliance_membership": {
+          "rank": 1,
+          "loyalty": 0
+        }
+      },
+      "soldiers": [
+        {
+          "master_id": 10,
+          "quantity": 722
+        }
+      ],
+      "animation_id": 3,
+      "march_type": 5,
+      "destination_info": {
+        "discriminator": 3,
+        "name": "石切り場(石材)",
+        "grade": 1
+      }
+    },
+    {
+      "discriminator": 1,
+      "id": 3267,
+      "start_date": "2015/11/24 16:32:25",
+      "finish_date": "2015/11/24 16:32:41",
+      "original_finish_date": "2015/11/24 16:32:41",
+      "origin": 6488161,
+      "destination": 6488163,
+      "user_outline": {
+        "home_world_id": 1,
+        "id": 2295,
+        "image_id": 1,
+        "name": "12345",
+        "alliance_summary": {
+          "id": 263,
+          "tag": "afa",
+          "icon_image_id": 1
+        },
+        "alliance_membership": {
+          "rank": 1,
+          "loyalty": 0
+        }
+      },
+      "soldiers": [
+        {
+          "master_id": 10,
+          "quantity": 722
+        }
+      ],
+      "animation_id": 3,
+      "march_type": 2
+    },
+    {
+      "discriminator": 1,
+      "id": 3263,
+      "start_date": "2015/11/24 16:30:48",
+      "finish_date": "2015/11/24 16:30:56",
+      "original_finish_date": "2015/11/24 16:30:56",
+      "cancel_type": 1,
+      "origin": 6488163,
+      "destination": 6684771,
+      "user_outline": {
+        "home_world_id": 1,
+        "id": 2295,
+        "image_id": 1,
+        "name": "12345",
+        "alliance_summary": {
+          "id": 263,
+          "tag": "afa",
+          "icon_image_id": 1
+        },
+        "alliance_membership": {
+          "rank": 1,
+          "loyalty": 0
+        }
+      },
+      "valiants": [
+        {
+          "info": {
+            "id": 1,
+            "owner_user_id": 2295,
+            "master_id": 1,
+            "template_id": 3,
+            "exp": 230900,
+            "equipments": [
+              {
+                "part": 8,
+                "equipment_id": 2
+              },
+              {
+                "part": 2,
+                "equipment_id": 4
+              },
+              {
+                "part": 1,
+                "equipment_id": 5
+              },
+              {
+                "part": 4,
+                "equipment_id": 6
+              },
+              {
+                "part": 32,
+                "equipment_id": 7
+              },
+              {
+                "part": 32,
+                "equipment_id": 9
+              }
+            ]
+          },
+          "equipments": []
+        }
+      ],
+      "soldiers": [],
+      "animation_id": 10003,
+      "march_type": 1,
+      "destination_info": {
+        "discriminator": 2,
+        "name": "ゴブリン",
+        "level": 1
+      }
+    },
+    {
+      "discriminator": 1,
+      "id": 3265,
+      "start_date": "2015/11/24 16:30:58",
+      "finish_date": "2015/11/24 16:31:14",
+      "original_finish_date": "2015/11/24 16:31:14",
+      "cancel_type": 1,
+      "origin": 6488163,
+      "destination": 6488161,
+      "user_outline": {
+        "home_world_id": 1,
+        "id": 2295,
+        "image_id": 1,
+        "name": "12345",
+        "alliance_summary": {
+          "id": 263,
+          "tag": "afa",
+          "icon_image_id": 1
+        },
+        "alliance_membership": {
+          "rank": 1,
+          "loyalty": 0
+        }
+      },
+      "soldiers": [
+        {
+          "master_id": 10,
+          "quantity": 722
+        }
+      ],
+      "animation_id": 3,
+      "march_type": 5,
+      "destination_info": {
+        "discriminator": 3,
+        "name": "石切り場(石材)",
+        "grade": 1
+      }
+    },
+    {
+      "discriminator": 1,
+      "id": 3264,
+      "start_date": "2015/11/24 16:31:01",
+      "finish_date": "2015/11/24 16:31:09",
+      "original_finish_date": "2015/11/24 16:31:09",
+      "origin": 6684771,
+      "destination": 6488163,
+      "user_outline": {
+        "home_world_id": 1,
+        "id": 2295,
+        "image_id": 1,
+        "name": "12345",
+        "alliance_summary": {
+          "id": 263,
+          "tag": "afa",
+          "icon_image_id": 1
+        },
+        "alliance_membership": {
+          "rank": 1,
+          "loyalty": 0
+        }
+      },
+      "valiants": [
+        {
+          "info": {
+            "id": 1,
+            "owner_user_id": 2295,
+            "master_id": 1,
+            "template_id": 3,
+            "exp": 230900,
+            "equipments": [
+              {
+                "part": 8,
+                "equipment_id": 2
+              },
+              {
+                "part": 2,
+                "equipment_id": 4
+              },
+              {
+                "part": 1,
+                "equipment_id": 5
+              },
+              {
+                "part": 4,
+                "equipment_id": 6
+              },
+              {
+                "part": 32,
+                "equipment_id": 7
+              },
+              {
+                "part": 32,
+                "equipment_id": 9
+              }
+            ]
+          },
+          "equipments": []
+        }
+      ],
+      "soldiers": [],
+      "animation_id": 10003,
+      "march_type": 2,
+      "arrival_result": {
+        "discriminator": 2,
+        "parent_id": 3263,
+        "effect_type": 4
+      }
+    },
+    {
+      "discriminator": 1,
+      "id": 3267,
+      "start_date": "2015/11/24 16:32:25",
+      "finish_date": "2015/11/24 16:32:41",
+      "original_finish_date": "2015/11/24 16:32:41",
+      "origin": 6488161,
+      "destination": 6488163,
+      "user_outline": {
+        "home_world_id": 1,
+        "id": 2295,
+        "image_id": 1,
+        "name": "12345",
+        "alliance_summary": {
+          "id": 263,
+          "tag": "afa",
+          "icon_image_id": 1
+        },
+        "alliance_membership": {
+          "rank": 1,
+          "loyalty": 0
+        }
+      },
+      "soldiers": [
+        {
+          "master_id": 10,
+          "quantity": 722
+        }
+      ],
+      "animation_id": 3,
+      "march_type": 2
+    },
+    {
+      "discriminator": 1,
+      "id": 3263,
+      "start_date": "2015/11/24 16:30:48",
+      "finish_date": "2015/11/24 16:30:56",
+      "original_finish_date": "2015/11/24 16:30:56",
+      "cancel_type": 1,
+      "origin": 6488163,
+      "destination": 6684771,
+      "user_outline": {
+        "home_world_id": 1,
+        "id": 2295,
+        "image_id": 1,
+        "name": "12345",
+        "alliance_summary": {
+          "id": 263,
+          "tag": "afa",
+          "icon_image_id": 1
+        },
+        "alliance_membership": {
+          "rank": 1,
+          "loyalty": 0
+        }
+      },
+      "valiants": [
+        {
+          "info": {
+            "id": 1,
+            "owner_user_id": 2295,
+            "master_id": 1,
+            "template_id": 3,
+            "exp": 230900,
+            "equipments": [
+              {
+                "part": 8,
+                "equipment_id": 2
+              },
+              {
+                "part": 2,
+                "equipment_id": 4
+              },
+              {
+                "part": 1,
+                "equipment_id": 5
+              },
+              {
+                "part": 4,
+                "equipment_id": 6
+              },
+              {
+                "part": 32,
+                "equipment_id": 7
+              },
+              {
+                "part": 32,
+                "equipment_id": 9
+              }
+            ]
+          },
+          "equipments": []
+        }
+      ],
+      "soldiers": [],
+      "animation_id": 10003,
+      "march_type": 1,
+      "destination_info": {
+        "discriminator": 2,
+        "name": "ゴブリン",
+        "level": 1
+      }
+    },
+    {
+      "discriminator": 1,
+      "id": 3265,
+      "start_date": "2015/11/24 16:30:58",
+      "finish_date": "2015/11/24 16:31:14",
+      "original_finish_date": "2015/11/24 16:31:14",
+      "cancel_type": 1,
+      "origin": 6488163,
+      "destination": 6488161,
+      "user_outline": {
+        "home_world_id": 1,
+        "id": 2295,
+        "image_id": 1,
+        "name": "12345",
+        "alliance_summary": {
+          "id": 263,
+          "tag": "afa",
+          "icon_image_id": 1
+        },
+        "alliance_membership": {
+          "rank": 1,
+          "loyalty": 0
+        }
+      },
+      "soldiers": [
+        {
+          "master_id": 10,
+          "quantity": 722
+        }
+      ],
+      "animation_id": 3,
+      "march_type": 5,
+      "destination_info": {
+        "discriminator": 3,
+        "name": "石切り場(石材)",
+        "grade": 1
+      }
+    },
+    {
+      "discriminator": 1,
+      "id": 3264,
+      "start_date": "2015/11/24 16:31:01",
+      "finish_date": "2015/11/24 16:31:09",
+      "original_finish_date": "2015/11/24 16:31:09",
+      "origin": 6684771,
+      "destination": 6488163,
+      "user_outline": {
+        "home_world_id": 1,
+        "id": 2295,
+        "image_id": 1,
+        "name": "12345",
+        "alliance_summary": {
+          "id": 263,
+          "tag": "afa",
+          "icon_image_id": 1
+        },
+        "alliance_membership": {
+          "rank": 1,
+          "loyalty": 0
+        }
+      },
+      "valiants": [
+        {
+          "info": {
+            "id": 1,
+            "owner_user_id": 2295,
+            "master_id": 1,
+            "template_id": 3,
+            "exp": 230900,
+            "equipments": [
+              {
+                "part": 8,
+                "equipment_id": 2
+              },
+              {
+                "part": 2,
+                "equipment_id": 4
+              },
+              {
+                "part": 1,
+                "equipment_id": 5
+              },
+              {
+                "part": 4,
+                "equipment_id": 6
+              },
+              {
+                "part": 32,
+                "equipment_id": 7
+              },
+              {
+                "part": 32,
+                "equipment_id": 9
+              }
+            ]
+          },
+          "equipments": []
+        }
+      ],
+      "soldiers": [],
+      "animation_id": 10003,
+      "march_type": 2,
+      "arrival_result": {
+        "discriminator": 2,
+        "parent_id": 3263,
+        "effect_type": 4
+      }
+    },
+    {
+      "discriminator": 1,
+      "id": 3267,
+      "start_date": "2015/11/24 16:32:25",
+      "finish_date": "2015/11/24 16:32:41",
+      "original_finish_date": "2015/11/24 16:32:41",
+      "origin": 6488161,
+      "destination": 6488163,
+      "user_outline": {
+        "home_world_id": 1,
+        "id": 2295,
+        "image_id": 1,
+        "name": "12345",
+        "alliance_summary": {
+          "id": 263,
+          "tag": "afa",
+          "icon_image_id": 1
+        },
+        "alliance_membership": {
+          "rank": 1,
+          "loyalty": 0
+        }
+      },
+      "soldiers": [
+        {
+          "master_id": 10,
+          "quantity": 722
+        }
+      ],
+      "animation_id": 3,
+      "march_type": 2
+    }
+  ]
+}
